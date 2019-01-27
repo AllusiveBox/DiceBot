@@ -62,3 +62,5 @@ typings/
 
 # bot token
 assets/files/token.json
+
+.vs/*
